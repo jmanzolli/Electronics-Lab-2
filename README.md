@@ -1,3 +1,3 @@
-# experimento2
+# Electronics Lab 2
 
-# Neste repositório você encontrará os códigos referentes a disciplina EE641
+# In this repository you will find the codes for the EE641 discipline
